@@ -239,3 +239,6 @@ This repository serves as the official landing page for Nero Multimedia Suite. T
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Nero Multimedia Suite today!**
+
+---
+**Last updated:** 2026-09-11 19:28:37 UTC
