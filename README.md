@@ -241,4 +241,4 @@ This repository serves as the official landing page for Nero Multimedia Suite. T
 **Get the most recent version of Nero Multimedia Suite today!**
 
 ---
-**Last updated:** 2026-09-16 22:41:24 UTC
+**Last updated:** 2026-09-17 01:06:51 UTC
